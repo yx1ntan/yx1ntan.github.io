@@ -53,7 +53,7 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 - *10/2022* First Class Scholarship, Sichuan University
 
 # 📖 Educations
-- *09/2021 - 06/2025 (expected)*, B.S. in Cybersecurity, Sichuan University. GPA: 91.11/100 (rank 3/161)
+- *09/2021 - 06/2025 (expected)*, B.S. in Cybersecurity, Sichuan University. GPA: 91.11/100 | Rank: 3/161
 - *04/2023 - 07/2023*, School of Computing(SoC) Summer Workshop, National University of Singapore.
 
 <!--
