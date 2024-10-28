@@ -24,7 +24,7 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 
 # 🔥 News
 - *10/2024*: Passed the IELTS exam——thank goodness! 🎉
-- *07/2024*: Selected to participate in the CUHK FoE HK PhD Fellowship Summer Workshop. Excited for this experience. See u soon, Hong Kong!
+- *07/2024*: Selected to participate in the CUHK FoE HK PhD Fellowship Summer Workshop. Excited for this experience!
 - *07/2023*: Awarded the Third Prize for *Taffic Sign Recognition* in the NUS SoC SWS 2023! 🎉
 
 
