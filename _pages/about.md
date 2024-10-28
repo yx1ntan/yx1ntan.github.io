@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate at Sichuan University, majoring in Cyber Science and Security. I'm an incoming Ph.D. student in HKUST CSE for Fall 2025.
+I am currently an undergraduate student at Sichuan University, majoring in Cybersecurity. I'm an incoming Ph.D. student in HKUST CSE for Fall 2025.
 
 My research interest includes Smart Healthcare, Human Computer Interaction and Machine Learning. During my PhD journey, I hope to fully and deeply learn, explore, and conduct some meaningful and impactful research. I want to contribute to developing innovative solutions that can address real-world challenges.
 
@@ -25,11 +25,11 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 # 🔥 News
 - *10/2024*: Passed the IELTS exam——thank goodness! 🎉
 - *07/2024*: Selected to participate in the CUHK FoE HK PhD Fellowship Summer Workshop. Excited for this experience!
-- *07/2023*: Awarded the Third Prize for *Traffic Sign Recognition* in the NUS SoC SWS 2023! 🎉
+- *07/2023*: Awarded the Third Prize for the project *Traffic Sign Recognition* in the NUS SoC SWS 2023! [Code](https://github.com/yx1ntan/Traffic_Sign_Recognition)🎉
 
 
 <!--
-# 📝 Projects 
+# 📝 Publication 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,7 +53,7 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 - *10/2022* First Class Scholarship, Sichuan University
 
 # 📖 Educations
-- *09/2021 - 06/2025 (expected)*, B.S. in Cybersecurity, Sichuan University.   
+- *09/2021 - 06/2025 (expected)*, B.S. in Cybersecurity, Sichuan University. GPA: 91.11/100 (rank 3/161)
 - *04/2023 - 07/2023*, School of Computing(SoC) Summer Workshop, National University of Singapore.
 
 <!--
