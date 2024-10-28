@@ -19,12 +19,12 @@ redirect_from:
 
 I am currently an undergraduate student at Sichuan University, majoring in Cybersecurity. I'm an incoming Ph.D. student in HKUST CSE for Fall 2025.
 
-My research interest includes Smart Healthcare, Human Computer Interaction and Machine Learning. During my PhD journey, I hope to fully and deeply learn, explore, and conduct some meaningful and impactful research. I want to contribute to developing innovative solutions that can address real-world challenges.
+My research interest includes Smart Healthcare, Human Computer Interaction and Machine Learning. During my PhD journey, I hope to fully and deeply learn, explore and conduct some meaningful and impactful research. I want to contribute to developing innovative solutions that can address real-world challenges.
 
 
 # 🔥 News
 - *10/2024*: Passed the IELTS exam——thank goodness! 🎉
-- *07/2024*: Selected to participate in the CUHK FoE HK PhD Fellowship Summer Workshop. Excited for this experience!
+- *07/2024*: Participated in the CUHK FoE HK PhD Fellowship Summer Workshop. Excited for this experience!
 - *07/2023*: Awarded the Third Prize for the project *Traffic Sign Recognition* in the NUS SoC SWS 2023! [Code](https://github.com/yx1ntan/Traffic_Sign_Recognition)🎉
 
 
