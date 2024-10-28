@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an undergraduate at Sichuan University, majoring in Cyber Science and Security. I'm an incoming Ph.D. student in HKUST CSE for Fall 2025.
 
-My research interest includes Smart Healthcare, Human Computer Interaction and Machine Learning. I want to contribute to developing innovative solutions that can address real-world challenges.
+My research interest includes Smart Healthcare, Human Computer Interaction and Machine Learning. During my PhD journey, I hope to fully and deeply learn, explore, and conduct some meaningful and impactful research. I want to contribute to developing innovative solutions that can address real-world challenges.
 
 
 # 🔥 News
