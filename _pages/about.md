@@ -27,10 +27,10 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 - *07/2024*: Selected to participate in the CUHK FoE HK PhD Fellowship Summer Workshop. Excited for this experience. See u soon, Hong Kong!
 - *07/2023*: Awarded the Third Prize for *Taffic Sign Recognition* in the NUS SoC SWS 2023! 🎉
 
-# 📝 Projects 
-
 
 <!--
+# 📝 Projects 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
