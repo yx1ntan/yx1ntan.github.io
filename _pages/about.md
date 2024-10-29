@@ -25,7 +25,7 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 # 🔥 News
 - *10/2024*: Passed the IELTS exam——thank goodness! 🎉
 - *07/2024*: Participated in the CUHK FoE HK PhD Fellowship Summer Workshop. Excited for this experience!
-- *07/2023*: Awarded the Third Prize for the project *Traffic Sign Recognition* in the NUS SoC SWS 2023! [Code](https://github.com/yx1ntan/Traffic_Sign_Recognition)🎉
+- *07/2023*: Awarded the Third Prize for the project *Traffic Sign Recognition* in the NUS SoC SWS 2023! [Code](https://github.com/yx1ntan/Traffic_Sign_Recognition) 🎉
 
 
 <!--
@@ -47,14 +47,14 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 -->
 
 # 🎖 Honors and Awards
-- *12/2023* National Scholarship, National Ministry of Education (Top 0.2% in China)
+- *12/2023* National Scholarship, National Ministry of Education (Top **0.2%** in China)
 - *10/2023* The First Class Scholarship, Sichuan University
-- *12/2022* National Scholarship, National Ministry of Education (Top 0.2% in China)
+- *12/2022* National Scholarship, National Ministry of Education (Top **0.2%** in China)
 - *10/2022* The First Class Scholarship, Sichuan University
 
 # 📖 Educations
 - *09/2021 - 06/2025 (expected)*, B.S. in Cybersecurity, Sichuan University. GPA: 91.11/100, Rank: 3/161
-- *04/2023 - 07/2023*, School of Computing(SoC) Summer Workshop, National University of Singapore.
+- *04/2023 - 07/2023*, School of Computing(SoC) Summer Workshop, National University of Singapore. Grade: A+
 
 <!--
 # 💬 Invited Talks
