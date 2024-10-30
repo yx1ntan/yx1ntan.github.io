@@ -48,9 +48,9 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 
 # 🎖 Honors and Awards
 - *12/2023* National Scholarship, National Ministry of Education (Top **0.2%** in China)
-- *10/2023* The First Class Scholarship, Sichuan University
+- *10/2023* First Class Scholarship, Sichuan University
 - *12/2022* National Scholarship, National Ministry of Education (Top **0.2%** in China)
-- *10/2022* The First Class Scholarship, Sichuan University
+- *10/2022* First Class Scholarship, Sichuan University
 
 # 📖 Educations
 - *09/2021 - 06/2025 (expected)*, B.S. in Cybersecurity, Sichuan University. GPA: 91.11/100, Rank: 3/161
