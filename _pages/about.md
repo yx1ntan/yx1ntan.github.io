@@ -47,10 +47,10 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 -->
 
 # 🎖 Honors and Awards
-- *12/2023* National Scholarship (**top 0.2%**, highest scholarship from National Ministry of Education)
-- *10/2023* First Class Scholarship (top 2%, from Sichuan University)
-- *12/2022* National Scholarship (**top 0.2%**, highest scholarship from National Ministry of Education)
-- *10/2022* First Class Scholarship (top 2%, from Sichuan University)
+- *12/2023* National Scholarship, National Ministry of Education (Top **0.2%** in China)
+- *10/2023* First Class Scholarship, Sichuan University 
+- *12/2022* National Scholarship, National Ministry of Education (Top **0.2%** in China)
+- *10/2022* First Class Scholarship, Sichuan University
 - *10/2022* Outstanding Student Award, Sichuan University
 
 # 📖 Educations
