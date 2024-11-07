@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /miscs/
 title: "Miscs"
 excerpt: ""
