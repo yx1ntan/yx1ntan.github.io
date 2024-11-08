@@ -24,8 +24,8 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 
 # 🔥 News
 - *10/2024*: Passed the IELTS exam——thank goodness! 🎉
-- *07/2024*: Participated in the CUHK FoE HK PhD Fellowship Summer Workshop. Excited for this experience!
-- *07/2023*: Awarded the Third Prize for the project *Traffic Sign Recognition* in the NUS SoC SWS 2023! [Code](https://github.com/yx1ntan/Traffic_Sign_Recognition) 🎉
+- *07/2024*: Participated in the [CUHK FoE HK PhD Fellowship Summer Workshop](https://hkpfs.erg.cuhk.edu.hk/). Excited for this experience!
+- *07/2023*: Awarded the Third Prize for the project *Traffic Sign Recognition* in the [NUS SoC SWS](https://sws.comp.nus.edu.sg/Home.html) 2023! [Code](https://github.com/yx1ntan/Traffic_Sign_Recognition) 🎉
 
 
 <!--
