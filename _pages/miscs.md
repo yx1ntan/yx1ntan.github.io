@@ -19,25 +19,32 @@ redirect_from:
 > I am rooted, but I flow.  
 > — *Virginia Woolf*
 
-<div class='paper-box' style="display: flex; justify-content: space-between; gap: 10px;">
-  <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 10px);">
+<div class='paper-box' style="display: flex; justify-content: center; gap: 10px;">
+  <div class='paper-box-image' style="flex: 1 1 calc(100% - 10px);">
     <div><div class="badge">2022 Autumn in SCU</div>
       <img src='{{ site.baseurl }}/images/scu.jpg' alt="SCU" style="width: 100%;">
     </div>
   </div>
+</div>
+
+<div class='paper-box' style="display: flex; justify-content: space-between; gap: 10px;">
   <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 10px);">
-    <div><div class="badge">2023 Summer in Hong Kong</div>
+    <div><div class="badge">2023 Summer in HongKong</div>
       <img src='{{ site.baseurl }}/images/HK.jpg' alt="Hong Kong" style="width: 100%;">
     </div>
   </div>
   <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 10px);">
-    <div><div class="badge">2023 Summer in Singapore</div>
-      <img src='{{ site.baseurl }}/images/sg1.jpg' alt="Singapore" style="width: 100%;">
+    <div><div class="badge">2023 Summer in NUS</div>
+      <img src='{{ site.baseurl }}/images/nus.jpg' alt="NUS" style="width: 100%;">
+    </div>
+  </div>
+  <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 10px);">
+    <div><div class="badge">2024 Summer in CUHK</div>
+      <img src='{{ site.baseurl }}/images/cuhk.jpg' alt="CUHK" style="width: 100%;">
     </div>
   </div>
 </div>
 
-<!-- Another example with two images -->
 <div class='paper-box' style="display: flex; justify-content: space-between; gap: 10px;">
   <div class='paper-box-image' style="flex: 1 1 calc(50% - 10px);">
     <div><div class="badge">2023 Summer in Singapore</div>
@@ -45,20 +52,8 @@ redirect_from:
     </div>
   </div>
   <div class='paper-box-image' style="flex: 1 1 calc(50% - 10px);">
-    <div><div class="badge">2023 Summer in NUS</div>
-      <img src='{{ site.baseurl }}/images/nus.jpg' alt="NUS" style="width: 100%;">
+    <div><div class="badge">2023 Summer in Singapore</div>
+      <img src='{{ site.baseurl }}/images/sg1.jpg' alt="Singapore" style="width: 100%;">
     </div>
   </div>
 </div>
-
-<!-- Example with one image -->
-<div class='paper-box' style="display: flex; justify-content: center; gap: 10px;">
-  <div class='paper-box-image' style="flex: 1 1 calc(100% - 10px);">
-    <div><div class="badge">2024 Summer in CUHK</div>
-      <img src='{{ site.baseurl }}/images/cuhk.jpg' alt="CUHK" style="width: 100%;">
-    </div>
-  </div>
-</div>
-
-
-
