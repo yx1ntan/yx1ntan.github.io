@@ -35,25 +35,25 @@ redirect_from:
   </div>
   <div class='paper-box-image' style="flex: 1 1 calc(50% - 10px);">
     <div><div class="badge">2023 Summer in Singapore</div>
-      <img src='{{ site.baseurl }}/images/sg1.jpg' alt="Singapore" style="height: 175px; width: auto;">
+      <img src='{{ site.baseurl }}/images/sg1.jpg' alt="Singapore" style="height: 200px; width: auto;">
     </div>
   </div>
 </div>
 
 <div class='paper-box' style="display: flex; justify-content: flex-start; gap: 5px;">
-  <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 10px);">
+  <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 5px);">
     <div><div class="badge">2023 Summer in HongKong</div>
-      <img src='{{ site.baseurl }}/images/HK.jpg' alt="Hong Kong" style="height: 175px; width: auto;">
+      <img src='{{ site.baseurl }}/images/HK.jpg' alt="Hong Kong" style="height: 200px; width: auto;">
     </div>
   </div>
-  <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 10px);">
+  <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 5px);">
     <div><div class="badge">2023 Summer in NUS</div>
-      <img src='{{ site.baseurl }}/images/nus.jpg' alt="NUS" style="height: 175px; width: auto;">
+      <img src='{{ site.baseurl }}/images/nus.jpg' alt="NUS" style="height: 200px; width: auto;">
     </div>
   </div>
-  <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 10px);">
+  <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 5px);">
     <div><div class="badge">2024 Summer in CUHK</div>
-      <img src='{{ site.baseurl }}/images/cuhk.jpg' alt="CUHK" style="height: 175px; width: auto;">
+      <img src='{{ site.baseurl }}/images/cuhk.jpg' alt="CUHK" style="height: 200px; width: auto;">
     </div>
   </div>
 </div>
