@@ -15,5 +15,5 @@ redirect_from:
 - [2024·年终总结](https://mp.weixin.qq.com/s/a_yVTViOs-yrezE0Tz1wUQ) 
 
 # Pictures
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Summer in HongKong</div><img src='{{ site.baseurl }}/images/HK.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Summer in HongKong</div><img src='{{ site.baseurl }}/images/HK.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
