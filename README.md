@@ -4,5 +4,5 @@ The theme is [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
 ## Update Log:
 
 
-**24.11.12**
+**12/11/24**
 - Added `miscs.md` file in `_pages` directory. Updated relevant links.
