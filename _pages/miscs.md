@@ -19,7 +19,7 @@ redirect_from:
 > I am rooted, but I flow.  
 > — *Virginia Woolf*
 
-<div class='paper-box' style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div class='paper-box' style="display: flex; justify-content: center;">
   <div class='paper-box-image'>
     <div><div class="badge">2022 Autumn in SCU</div>
       <img src='{{ site.baseurl }}/images/scu.jpg' alt="SCU" width="30%">
@@ -37,7 +37,7 @@ redirect_from:
   </div>
 </div>
 
-<div class='paper-box' style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div class='paper-box' style="display: flex; justify-content: space-between;">
   <div class='paper-box-image'>
     <div><div class="badge">2023 Summer in Singapore</div>
       <img src='{{ site.baseurl }}/images/sg2.jpg' alt="Singapore" width="30%">
