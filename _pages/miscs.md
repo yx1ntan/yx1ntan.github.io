@@ -45,7 +45,7 @@ redirect_from:
   </div>
 </div>
 
-<div class='paper-box' style="display: flex; justify-content: space-between; gap: 10px;">
+<div class='paper-box' style="display: flex; justify-content: center; gap: 10px;">
   <div class='paper-box-image' style="flex: 1 1 calc(50% - 10px);">
     <div><div class="badge">2023 Summer in Singapore</div>
       <img src='{{ site.baseurl }}/images/sg2.jpg' alt="Singapore" style="width: 105%;">
