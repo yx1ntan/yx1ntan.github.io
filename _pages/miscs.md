@@ -16,7 +16,8 @@ redirect_from:
 
 # Pictures
 
-I am rooted, but I flow.    ——Virginia Woolf
+> I am rooted, but I flow.  
+> — *Virginia Woolf*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Summer in HongKong</div><img src='{{ site.baseurl }}/images/HK.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
