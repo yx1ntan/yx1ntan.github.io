@@ -18,5 +18,5 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Summer in HongKong</div><img src='{{ site.baseurl }}/images/HK.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In SCU</div><img src='{{ site.baseurl }}/images/scu.jpg' alt="sym" width="120%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In SCU</div><img src='{{ site.baseurl }}/images/scu.jpg' alt="sym" width="140%"></div></div>
 <div class='paper-box-text' markdown="1">
