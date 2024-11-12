@@ -35,7 +35,7 @@ redirect_from:
   </div>
   <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 10px);">
     <div><div class="badge">2023 Summer in NUS</div>
-      <img src='{{ site.baseurl }}/images/nus.jpg' alt="NUS" style="width: 95%;">
+      <img src='{{ site.baseurl }}/images/nus.jpg' alt="NUS" style="width: 92%;">
     </div>
   </div>
   <div class='paper-box-image' style="flex: 1 1 calc(33.33% - 10px);">
@@ -48,7 +48,7 @@ redirect_from:
 <div class='paper-box' style="display: flex; justify-content: space-between; gap: 10px;">
   <div class='paper-box-image' style="flex: 1 1 calc(50% - 10px);">
     <div><div class="badge">2023 Summer in Singapore</div>
-      <img src='{{ site.baseurl }}/images/sg2.jpg' alt="Singapore" style="width: 110%;">
+      <img src='{{ site.baseurl }}/images/sg2.jpg' alt="Singapore" style="width: 105%;">
     </div>
   </div>
   <div class='paper-box-image' style="flex: 1 1 calc(50% - 10px);">
