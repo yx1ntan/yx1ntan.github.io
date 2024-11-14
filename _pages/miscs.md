@@ -71,6 +71,7 @@ redirect_from:
 </div>
 -->
 
+<!--
 <div class='paper-box' style="display: flex; justify-content: space-between; gap: 10px;">
   <div class='paper-box-image' style="flex: 1 1 33.33%; padding: 0 5px;">
     <div>
@@ -91,7 +92,6 @@ redirect_from:
     </div>
   </div>
 </div>
-
-
+-->
 
 
