@@ -65,6 +65,6 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 -->
 
 # 💻 Internships
-- *06/2024 - 07/2024*, Automated Testing of APP UI, [NSFOCUS](https://www.nsfocus.com.cn/), China.
+- *06/2024 - 07/2024*, Automated Testing of APP UI, [NSFOCUS](https://nsfocusglobal.com/), China.
 
 <span style="color:gray; font-size: small;">Webpage Last Updated: Oct., 2024.</span>
