@@ -47,6 +47,7 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 -->
 
 # 🎖 Honors and Awards
+- *03/2024* Special Fund for Cyberspace Security Talent Development Award (30,000 RMB), Sichuan University
 - *12/2023* **National Scholarship**, National Ministry of Education (Top **0.2%** in China)
 - *12/2023* Sichuan Province Comprehensive Quality A-level Certificate
 - *10/2023* First Class Scholarship, Sichuan University
