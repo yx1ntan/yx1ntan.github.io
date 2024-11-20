@@ -56,7 +56,7 @@ My research interest includes Smart Healthcare, Human Computer Interaction and M
 - *10/2022* Outstanding Student Award, Sichuan University
 
 # 📖 Educations
-- *09/2021 - 06/2025 (expected)*, B.Eng. in Cyber Science and Engineering, Sichuan University. GPA: 91.11/100, Rank: 3/162
+- *09/2021 - 06/2025 (expected)*, B.Eng. in Cyber Science and Engineering, Sichuan University. GPA: 91.11/100, Rank: Top 1.8%
 - *04/2023 - 07/2023*, School of Computing(SoC) Summer Workshop, National University of Singapore. Grade: **A+**
 
 <!--
