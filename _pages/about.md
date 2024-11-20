@@ -21,6 +21,8 @@ I am currently an undergraduate student at Sichuan University, majoring in Cyber
 
 My research interest includes Smart Healthcare, Human Computer Interaction and Machine Learning. During my PhD journey, I hope to fully and deeply learn, explore and conduct some meaningful and impactful research. I want to contribute to developing innovative solutions that can address real-world challenges.
 
+<span style="font-style: italic; color:gray; font-size: small;">I am proud to be **a first-generation college student** and **a woman in STEM**. The support I’ve received along the way has been invaluable, and I’m always happy to pay it forward. Please don’t hesitate to reach out if you have any questions or need support!</span>
+
 
 # 🔥 News
 - *10/2024*: Passed the IELTS exam——thank goodness! 🎉
