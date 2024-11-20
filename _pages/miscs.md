@@ -9,15 +9,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="font-style: italic;">I am proud to be **a first-generation college student** and **a woman in STEM**. The support I’ve received along the way has been invaluable, and I’m always happy to pay it forward. Please don’t hesitate to reach out if you have any questions or need support!</span>
+I am proud to be **a first-generation college student** and **a woman in STEM**. The support I’ve received along the way has been invaluable, and I’m always happy to pay it forward. Please don’t hesitate to reach out if you have any questions or need support!
 
 # Blogs
+
 - [In Singapore (1)](https://mp.weixin.qq.com/s/D-zJ3VqnBxWmVqVa-9aZ1w)
 - [In Singapore (2)](https://mp.weixin.qq.com/s/6_DhiiGS6mQ-TecYnlMlJg)
 - [2023·年终总结](https://mp.weixin.qq.com/s/a_yVTViOs-yrezE0Tz1wUQ) 
 
 # Pictures
-
 > I am rooted, but I flow.  
 > — *Virginia Woolf*
 
