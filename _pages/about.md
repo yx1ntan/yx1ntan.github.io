@@ -22,7 +22,8 @@ I am currently an undergraduate student at Sichuan University, majoring in Cyber
 My research interest includes Smart Healthcare, Human Computer Interaction and Machine Learning. During my PhD journey, I hope to fully and deeply learn, explore and conduct some meaningful and impactful research. I want to contribute to developing innovative solutions that can address real-world challenges.
 
 # 🔥 News
-- *10/2024*: Passed the IELTS exam——thank goodness! 🎉
+- *11/2024*: Our project has received funding support from Huawei! 🎉 
+- *10/2024*: Passed the IELTS exam——thank goodness! 
 - *07/2024*: Participated in the [CUHK FoE HK PhD Fellowship Summer Workshop](https://hkpfs.erg.cuhk.edu.hk/). An inspiring and unforgettable journey!
 - *07/2023*: Awarded the Third Prize for the project *Traffic Sign Recognition* in the [NUS SoC SWS](https://sws.comp.nus.edu.sg/Home.html) 2023! 🎉 [Code](https://github.com/yx1ntan/Traffic_Sign_Recognition) 
 
