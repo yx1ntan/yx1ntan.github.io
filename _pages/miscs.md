@@ -12,6 +12,8 @@ redirect_from:
 I am proud to be **a first-generation college student** and **a woman in STEM**. The support I’ve received along the way has been invaluable, and I’m always happy to pay it forward. Please don’t hesitate to reach out if you have any questions or need support!
 
 # Blogs
+> Do not go gentle into that good night
+> — *Dylan Thomas*
 
 - [In Singapore (1)](https://mp.weixin.qq.com/s/D-zJ3VqnBxWmVqVa-9aZ1w)
 - [In Singapore (2)](https://mp.weixin.qq.com/s/6_DhiiGS6mQ-TecYnlMlJg)
