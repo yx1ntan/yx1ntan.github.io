@@ -19,6 +19,8 @@ I am proud to be **a first-generation college student** and **a woman in STEM**.
 - [In Singapore (2)](https://mp.weixin.qq.com/s/6_DhiiGS6mQ-TecYnlMlJg)
 - [2023·年终总结](https://mp.weixin.qq.com/s/a_yVTViOs-yrezE0Tz1wUQ) 
 
+My writing philosophy? 'Write a bunch of sh*t first, then slowly revise it.'
+
 # Pictures
 > I am rooted, but I flow.  
 > — *Virginia Woolf*
