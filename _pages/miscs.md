@@ -99,6 +99,6 @@ I am proud to be **a first-generation college student** and **a woman in STEM**.
 -->
 
 # Useful links
-- [How to read paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [How to Read a Paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 
 
