@@ -9,8 +9,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am proud to be **a first-generation college student** and **a woman in STEM**. The support I’ve received along the way has been invaluable, and I’m always happy to pay it forward. Please don’t hesitate to reach out if you have any questions or need support!
-
 # Blogs
 > Do not go gentle into that good night
 > — *Dylan Thomas*
