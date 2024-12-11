@@ -9,6 +9,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Useful links
+- [How to Read a Paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) 
+
 # Blogs
 > Do not go gentle into that good night
 > — *Dylan Thomas*
@@ -50,7 +53,7 @@ redirect_from:
   </div>
   <div class='paper-box-image' style="flex: 1 1 calc(50% - 10px);">
     <div><div class="badge">2023 Summer in Singapore</div>
-      <img src='{{ site.baseurl }}/images/sg1.jpg' alt="Singapore" style="height: 300px; width: auto;">
+      <img src='{{ site.baseurl }}/images/sg2.jpg' alt="Singapore" style="height: 300px; width: auto;">
     </div>
   </div>
 </div>
@@ -97,8 +100,5 @@ redirect_from:
   </div>
 </div>
 -->
-
-# Useful links
-- [How to Read a Paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 
 
