@@ -48,12 +48,12 @@ redirect_from:
 <div class='paper-box' style="display: flex; justify-content: flex-start; gap: 10px;">
   <div class='paper-box-image' style="flex: 1 1 calc(50% - 10px);">
     <div><div class="badge">2022 Autumn in SCU</div>
-      <img src='{{ site.baseurl }}/images/scu.jpg' alt="Singapore" style="height: 175px; width: auto;">
+      <img src='{{ site.baseurl }}/images/scu.jpg' alt="Singapore" style="height: 200px; width: auto;">
     </div>
   </div>
   <div class='paper-box-image' style="flex: 1 1 calc(50% - 10px);">
     <div><div class="badge">2023 Summer in Singapore</div>
-      <img src='{{ site.baseurl }}/images/sg2.jpg' alt="Singapore" style="height: 300px; width: auto;">
+      <img src='{{ site.baseurl }}/images/sg2.jpg' alt="Singapore" style="height: 200px; width: auto;">
     </div>
   </div>
 </div>
