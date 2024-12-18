@@ -12,6 +12,8 @@ redirect_from:
 # Useful links
 - [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+- [Ph.D.s from the Faculty’s Perspective](https://cacm.acm.org/blogcacm/ph-d-s-from-the-facultys-perspective/)
+- [How to Do Great Research](https://greatresearch.org/)
 
 # Blogs
 > Do not go gentle into that good night
