@@ -10,6 +10,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Useful links
+> Stand on the shoulders of giants!
+
 - [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 - [Ph.D.s from the Faculty’s Perspective](https://cacm.acm.org/blogcacm/ph-d-s-from-the-facultys-perspective/)
