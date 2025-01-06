@@ -21,8 +21,8 @@ redirect_from:
 > Do not go gentle into that good night
 > — *Dylan Thomas*
 
-- [(2024年终总结) To Strive, to Seek, to Find, and Not to Yield · Onward to 2025](https://mp.weixin.qq.com/s/9fGfjRuqlLO5wEmtBMrWxw)
-- [(2023年终总结) 2024，在路上 ](https://mp.weixin.qq.com/s/a_yVTViOs-yrezE0Tz1wUQ)
+- [【2024 年终总结】 To Strive, to Seek, to Find, and Not to Yield · Onward to 2025](https://mp.weixin.qq.com/s/9fGfjRuqlLO5wEmtBMrWxw)
+- [【2023 年终总结】 2024，在路上 ](https://mp.weixin.qq.com/s/a_yVTViOs-yrezE0Tz1wUQ)
 - [In Singapore (1)](https://mp.weixin.qq.com/s/D-zJ3VqnBxWmVqVa-9aZ1w)
 - [In Singapore (2)](https://mp.weixin.qq.com/s/6_DhiiGS6mQ-TecYnlMlJg)
 
